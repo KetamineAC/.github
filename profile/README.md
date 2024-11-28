@@ -7,5 +7,5 @@ advanced and modern strict anticheat software
 - packet based
 - optimized
 
-## release date
-product release date coming soon
+# 🗓️ release date
+product release date is coming soon
